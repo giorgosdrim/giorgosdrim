@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @giorgosdrim
 - 👀 I’m interested in music, video games and technology in general.
-- 🌱 I’m currently learning how to code using C.
+- 🌱 I’m currently learning how to code using C and Java.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
